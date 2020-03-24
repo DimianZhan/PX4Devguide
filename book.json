@@ -68,27 +68,27 @@
         },
         
         "versions": {
-            "gitbookConfigURL": "https://raw.githubusercontent.com/PX4/Devguide/master/book.json",
+            "gitbookConfigURL": "https://raw.githubusercontent.com/DimianZhan/Devguide/zh_extra/book.json",
             "options": [
                 {
-                    "value": "https://dev.px4.io/master/en/",
+                    "value": "https://dev.px4.cc/master/zh/",
                     "text": "master"
                 },
                 {
-                    "value": "https://dev.px4.io/v1.10/en/",
+                    "value": "https://dev.px4.cc/v1.10/zh/",
                     "text": "1.10 - stable"
                 },
                 {
-                    "value": "https://dev.px4.io/v1.9.0/en/",
+                    "value": "https://dev.px4.cc/v1.9.0/zh/",
                     "text": "1.9 "
                 },
                 {
-                    "value": "https://dev.px4.io/v1.8.2/en/",
+                    "value": "https://dev.px4.cc/v1.8.2/zh/",
                     "text": "1.8.2"
                 },
 
                 {
-                    "value": "https://dev.px4.io/v1.8.0/en/",
+                    "value": "https://dev.px4.cc/v1.8.0/zh/",
                     "text": "1.8.0"
                 }
             ]
